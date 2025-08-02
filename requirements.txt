@@ -1,0 +1,4 @@
+flask
+openai-whisper
+#imageio[ffmpeg]
+ffmpeg-binaries
